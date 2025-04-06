@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hot water</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>HOT WATER</h1>
+    <p>Lets make a hot boiling water for drinking and other tasks</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>water</li>
+      <li>bowl</li>
+      <li>Gas stove</li>
+      <li>Human(to make)</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>get hot water form the tap</li>
+      <li>fill the hot water in a bowil</li>
+      <li>turn on the stove</li>
+      <li>boil until its boiled</li>
+    </ol>
+    <img src = "https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt = "its a image"> 
+  </body>
+</html>
